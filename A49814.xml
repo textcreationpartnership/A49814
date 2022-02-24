@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Discourse of fines shewing by what easie, althought corrupt and unlawful, method of practice it may happen, that any person or his heirs in England, at one time or other, to be legally defrauded and disinherited by abuses in fines ... / by T. L.</title>
+            <author>T. L., of Lincolns-Inn, Esq.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49814</idno>
+            <idno type="STC">Wing L73</idno>
+            <idno type="STC">ESTC R5079</idno>
+            <idno type="EEBO-CITATION">13483599</idno>
+            <idno type="OCLC">ocm 13483599</idno>
+            <idno type="VID">99714</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49814)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99714)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 461:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Discourse of fines shewing by what easie, althought corrupt and unlawful, method of practice it may happen, that any person or his heirs in England, at one time or other, to be legally defrauded and disinherited by abuses in fines ... / by T. L.</title>
+                  <author>T. L., of Lincolns-Inn, Esq.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title; imprint taken from the B.M.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fines and recoveries --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99714:1"/>
+            <pb n="1" facs="tcp:99714:1" rendition="simple:additions"/>
+            <p>A DISCOURSE OF FINES.</p>
+            <p>SHEWING By what eaſie (although corrupt and unlawful) method of practice it may happen, that any perſon or his Heirs in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> at one time or other, to be legally defrauded and diſinhe<g ref="char:EOLhyphen"/>rited by abuſes in Fines.</p>
+            <q>
+               <p>Stabitur preſumptioné, donec probatur in contrarium. Quod alias bonum &amp; juſtum, ſi per vim vel fraudem petatur, malum &amp; injuſtum eſt.</p>
+               <bibl>Lit. cap. Remitter.</bibl>
+            </q>
+            <p>By <hi>T. L.</hi> of <hi>Lincolns-Inn</hi> 
+               <abbr>Eſq</abbr>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <head>Fines at the Common Law, and confirmed by divers Statutes.</head>
+               <p>THey were anciently levyed before the Juſtices of the Court of Common-Pleas in Court, to the intent the ſaid Juſtices might be fully ſatisfied, and judge the Conuſors of ſuch Fines to be the parties themſelves, of full age, free from Dures, Ideocy, and Lunacy: And if they doubted whether it was the party, then proof was to be made to them of it: And alſo if a Feme-covert be one, that ſhe be ſolely and ſecretly examined, as to her age, conſent, and conſideration for her levying ſuch Fine; and be acquainted with the nature of it, leſt that her Husband ſhould by any threats or fraud,
+<pb n="2" facs="tcp:99714:2"/>endeavour the obtaining her Eſtate by any undue and unlawful pra<g ref="char:EOLhyphen"/>ctice. And if the Court were unſatisfied as to his or her age, then they to put him or her to their Oath: And if not ſatisfied therewith, then ſuch parties to make proof thereof by the Church-Book, or otherwiſe.</p>
+               <p>The Common Law, as to the manner of it, is confirmed by the ſaid Statute; the words of which Statute be, that ſuch Fine to be acknowledged by the party himſelf who ought to be of full age,<note place="margin">Stat. de Finibus, <hi>18 E 3.</hi>
+                  </note> of good memory, out of Priſon, <hi>&amp;c.</hi> And if a Feme-covert be one, ſhe muſt be examined by four of the ſaid Juſtices, as to her conſent, <hi>&amp;c.</hi> The rea<g ref="char:EOLhyphen"/>ſon given by the ſaid Statute, and reaſon of the Common Law, why there is uſed ſuch ſolemnity in levying of Fines, is, a Fine being a Record of a high nature, and will not be preſumed to lye, and will admit no Averment againſt it ſelf. It being taken for granted in every Caſe, where a Fine is levyed, that there hath been the afore<g ref="char:EOLhyphen"/>mentioned care and examination; and that the Court hath been fully ſatisfied, that ſuch Conuſor was the ſame party, of full age, free from Ideocy, Lunacy and Dures. The Statute, 32 <hi>H.</hi> 8. maketh exception of Infants, Ideots, <hi>&amp;c.</hi> levying of Fines, and divers other Statutes; ſo as 'tis evident, that ſuch perſons, neither by the Common or Statute-Laws of the Realm, are intended to make any diſpoſal of their Eſtates.</p>
+               <p>The ſaid Statute reciting, Whereas there were many aged and im<g ref="char:EOLhyphen"/>potent perſons that lived in remote places of this Kingdom,<note place="margin">Stat de Carlile, <hi>15 E. 2.</hi>
+                  </note> who by no means could come before the Juſtices in Court to levy Fines, ſo as to ſettle their Eſtates; To prevent which inconvenience, the ſaid Statute doth provide two or one of the Juſtices, by the aſſent of the reſidue of the Bench, to viſit the party ſo diſeaſed: And if one go, he ſhall take with him an Abbot, or Prior, or Knight of good fame and credit. And hereof the Writ of <hi>Dedimus Poteſtatem</hi> had its be<g ref="char:EOLhyphen"/>ginning, and intended to be granted in ſuch caſes onely where the parties were not able to come to the Court; and accordingly was framed: <hi>Ae praefatus A, adeo impotens exiſtit, quod abſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> maximo ſui corporis periculo uſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ad</hi> Weſtm. <hi>ad diem in brevi praed. content. ad re<g ref="char:EOLhyphen"/>cognitionem, quod in hac parte requiritur faciend.</hi> &amp;c. Which form albeit continueth to this day, yet ſometimes the Conuſans is taken of them which are in health, and able to travel; and ſometimes when the Conuſors are in health and in Town, to the apparent abuſes of the power given by the <hi>Dedimus,</hi> and to the ruine of Families.</p>
+               <pb n="3" facs="tcp:99714:2"/>
+               <p>A <hi>Dedimus Poteſtatem</hi> is ſometimes given to a Serjeant at Law or Knight, with other perſons joyned with them: Any two of which may return the <hi>Caption:</hi> All which perſons are to inſpect the perſons, and examine them, and be ſatisfied that they be the ſame perſons, of full age, not Ideots or Lunaticks, and free from Dures. But in caſe there be no Knight at the <hi>Caption,</hi> then is one of the Juſtices of the Court to give an <hi>Allocatur</hi> or allowance for paſſing the ſame.</p>
+               <p>The Chief Juſtice can, <hi>ex Officio,</hi> take a Fine.</p>
+               <p>The common abuſes uſed in levying of Fines are, where one perſon doth repreſent another: in Caſe of Infants: in Caſe of <hi>Non compos mentis:</hi> in Caſe of Dures or compulſion; and in Caſe where a Feme-covert is cheated in the uſes of ſuch Fines, or not exa<g ref="char:EOLhyphen"/>mined.</p>
+               <p>The common way as theſe abuſes are hatch'd and framed in de<g ref="char:EOLhyphen"/>ceit of the Law and Court of Common Pleas, are either by <hi>Dedimus Poteſtatem,</hi> directed to Mercenary perſons, who value not their reputa<g ref="char:EOLhyphen"/>tion; or ſuch as connive at, or contrive the doing of it; ignorant perſons in ſuch affairs. And in ſome Caſes where ſuch Commiſſioners and Courts themſelves are deceived: of all which I ſhall give an ac<g ref="char:EOLhyphen"/>count, and thew what remedy hath been formerly uſed to recompence the parties abuſed by ſuch practices: And what are the remedies at this day: As alſo, how juſt the Law is in Caſes of the like nature in leſſer concerns.</p>
+               <p>The Caſe was, that <hi>Hubert</hi> being convicted in Star-chamber, by Bill exhibited againſt him for procuring one <hi>Webſter</hi> to counterfeit himſelf to be one <hi>Gellibrand,</hi>
+                  <note place="margin">
+                     <hi>39 Eliz</hi> in the Star chamber, <hi>Hu<g ref="char:EOLhyphen"/>berts</hi> caſe. <hi>Crokes Report.</hi>
+                  </note> and to ac<g ref="char:EOLhyphen"/>knowledge a Fine in his name before Commiſſion<g ref="char:EOLhyphen"/>ers procured for that purpoſe, of <hi>Gellibrands</hi> land: The ſentence in that caſe was, that he ſhould make Fine to the Queen, and ſhould be impriſoned; and that the Fine ſhould be void, if it could be done, by entring a <hi>Vaeate;</hi> if it could not, then <hi>Hubert,</hi> by Fine, or otherways, as the ſaid <hi>Gellebrand</hi> ſhould deviſe, ſhould reconvey the Land to him and his Heirs, in the ſame manner as it was before, at the time of the Fine levied. My Lord <hi>Coke</hi> in his 12 <hi>Rep.</hi> in <hi>Hu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gates</hi> Caſe, ſays, that this Fine could not be <hi>vacated;</hi> ſo that <hi>Gellibrand</hi> was otherways relieved.</p>
+               <p>The Earl of <hi>Exeter</hi> bought a Lordſhip in <hi>Lei<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſhire,</hi> of a Gentle<g ref="char:EOLhyphen"/>man who had formerly made his Wife a Joynture of it,<note place="margin">
+                     <hi>T<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the S<gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ch <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</note> who covenanted with his Lordſhip that he and his Wife would levy a Fine of it; but could not get his Wife
+<pb n="4" facs="tcp:99714:3"/>thereto: but he and another woman, whom he ſuborned and hired to come in his Wifes place and name to joyn with him to levy a Fine, which accordingly paſſed at the Bar of the Court of Common Pleas; and ſhortly after the Gentleman dyes, and his true Wife entred and claimed her Joynture. The buſineſs being brought into the Star-chamber, and there proved, the ſaid Earl was glad to allow her her Joynture, or that which was equivalent; but the ſaid Fine ſtood good againſt her. The Statute of 21 <hi>Jac.</hi> 26. doth provide, that any per<g ref="char:EOLhyphen"/>ſon acknowledging any matter of Record in another perſons name, the ſaid perſon not being party or privy thereunto, that it ſhall be Fe<g ref="char:EOLhyphen"/>lony in ſuch perſon. But if (as in the caſes beforementioned) one perſon ſhould acknowledge a Fine in another perſons name, and this perſon as ſhould ſo acknowledge the ſame, ſhould be convicted thereof, ac<g ref="char:EOLhyphen"/>cording to the Statute; yet ſuch Fines ſhall ſtand good, becauſe it is a Record of a high nature, and will admit of no Averment againſt it ſelf.</p>
+               <p>Where Lands were demiſed to one <hi>Buſhley,</hi> in tail remainder over, <hi>Buſhley</hi> proved an Ideot and deformed Creature:<note place="margin">
+                     <hi>Tempore Jac. Buſhleys</hi> caſe in Common Pleas.</note> one <hi>Nicols</hi> and others doth get him into their cuſtody, and carries him to a place unknown, and there kept him in ſecret, until he had acknowledged a Fine to one <hi>Bothom</hi> before Juſtice <hi>Southcot,</hi> to the uſe of the ſaid <hi>Bothom:</hi> which buſineſs being examined by my Lord <hi>Dyer,</hi> and the reſt of the Juſtices of the Court of Common Pleas, they declared this Fine to be good, and not reverſable, notwithſtanding the practices and Ideocy; but declared that the Judge that took the ſame, was not worthy to ſit to take another: which Caſe was, as I have heard, examined in the Star-chamber, and the parties judged to pay fine to the King, and impriſoned until recompence: But what was done to the Judge I know not; there are ſeveral preſidents, where Judges, Commiſſioners, and other Offenders have been fined, where there hath been any ap<g ref="char:EOLhyphen"/>parent neglect or contrivance proved againſt them.</p>
+               <p>
+                  <hi>Butcher</hi> having married a Wife, who had 20 <hi>
+                     <abbr>l</abbr> per annum</hi> Inheri<g ref="char:EOLhyphen"/>tance, and an Infant of nineteen years of age,<note place="margin">Butchers <hi>caſe,</hi> tempore Iacobi <hi>in Star-chamber.</hi>
+                  </note> gets a <hi>Dedimus Poteſtatem</hi> directed to two Gentlemen, who examined her, and took her to be of age; ſo as the <hi>Caption</hi> was returned, and the Fine become a Fine of Record: his Wife not long after dyed without inſpecti<g ref="char:EOLhyphen"/>on; her Heir brings his Bill of Complaint in the Star-chamber againſt <hi>Butcher</hi> and his Commiſſioners, and there proves that <hi>Butcher</hi> knew
+<pb n="5" facs="tcp:99714:3"/>her to be an Infant, and did notwithſtanding practice the procu<g ref="char:EOLhyphen"/>ring of this Fine in deceit of the Court. The ſentence was, That he ſhould make Fine to the King, and recovery by Fine, or otherways, to his Wives Heir, or pay 400 <abbr>
+                     <hi>l</hi>
+                  </abbr> which was the value of the Land; but the Fine could not be avoided.</p>
+               <p>One <hi>Carrel</hi> marries <hi>Johan</hi> Heir of <hi>Waincomb,</hi> an Infant about nine<g ref="char:EOLhyphen"/>teen, who by <hi>Dedimus Poteſtatem</hi> acknowledged a Fine of her Lands, and dyes without inſpection:<note place="margin">Waincomb <hi>and</hi> Carrels <hi>caſe,</hi> tem<g ref="char:EOLhyphen"/>pore Eliz. <hi>in Star-chamber,</hi> 18 Rep.</note> The uſes of which Fine being to the ſaid <hi>Carrel</hi> for his life; and after his deceaſe, to her Heirs. <hi>Wain<g ref="char:EOLhyphen"/>comb</hi> Heir of <hi>Johan,</hi> brings his Bill in the Star-cham<g ref="char:EOLhyphen"/>ber; where the buſineſs being examined, and it not appearing that <hi>Carrel</hi> knew his Wife to be an Infant, nor any practice or neglect in him or the Commiſſioners; and the ſettlement to be but reaſonable, being but for life, which he would have had, in caſe he had a Child, as Tenant by Courteſie; and the Eſtate being not fully taken out of her blood, the Court gave no ſentence therein.</p>
+               <p>Note, That the laudable Cuſtom of Tenancy by the Courteſie, is al<g ref="char:EOLhyphen"/>lowable no where but in <hi>England,</hi> the next Heir in all other places entring immediately.</p>
+               <p>This Parliament hath been pleaſed to examine the undue pro<g ref="char:EOLhyphen"/>curing a Fine levyed by Sir <hi>Edward Powell</hi> Knight and Baronet, and his Wife; the ſame being procured by fraud on his Wife; which Fine was by them made void, which could not have been otherways done.</p>
+               <p>The relief of Heirs and other perſons prejudiced by Fines deceitfully levyed in the Common Pleas, in the Star-chamber, and their ſentences for ſuch miſdemeanors, was a terror which prevented many attempts, which poſſibly would have been practiſed on Fines and Recoveries, in caſe that had not been. The want of which Star-chamber to puniſh and rectifie ſuch abuſes in Fines, is at this day the daily ruine of many a Family: for how eaſie is it to get qualified Commiſſioners in this corrupt age, to return the <hi>Caption</hi> of Fine of an Infant of five years of age, or of a perſon they never ſaw nor examined; by which means they may do and diſpoſe of any Eſtate as they pleaſe? And if ſuch Infant ſhall dye, and not reverſe the ſame, it ſhall bind him and his Heirs. And how eaſie is it to get one perſon to re<g ref="char:EOLhyphen"/>preſent another to Commiſſioners, and they to return the <hi>Caption,</hi> and this perſon to go beyond Sea, and 'tis poſſible may never be diſcovered? being an eaſier way to get money then on the High<g ref="char:EOLhyphen"/>way
+<pb n="6" facs="tcp:99714:4"/>(the one way of getting money, being as juſt and reaſonable as the other) And how many perſons may by this means get his Wives Inheritance or Joynture from her? and when ſhe ſhall examine the buſineſs, there muſt be admitted no averment againſt a Record.</p>
+            </div>
+            <div type="part">
+               <head>How reaſonable the Law is in Caſes of ſmaller concerns, where men are not concluded by a preſumption of ſolemnity, ſo eaſily avoided by cor<g ref="char:EOLhyphen"/>rupt perſons.</head>
+               <p>IF any Infant bind himſelf in any Bond or Deed, or alien any Lands, Goods or Chattels, he may avoid the ſame at any time whatſoever,<note place="margin">Coke ſur Litt. Sect. <hi>259.</hi>
+                  </note> either by Plea or Writ, or his Heir may avoid the ſame. Infancy being a good Plea in bar to all Actions, except for neceſſaries, as Diet, Clothes, <hi>&amp;c.</hi>
+               </p>
+               <p>If any Ideot, or <hi>Non compos mentis,</hi> make any Feoffment, Gift, Leaſe or Releaſe, <hi>&amp;c.</hi> it may be avoided during his life, by Office at the Kings Suit, which ſhall have relation from the time of his Nati<g ref="char:EOLhyphen"/>vity, to avoid all acts done by him; and after his death, the King ſhall deliver his Lands to the right Heirs. <hi>Fitz-Herbert</hi> in his <hi>Natura Brevium</hi> ſays,<note place="margin">Berverlys <hi>caſe,</hi> 4 <hi>Rep.</hi>
+                  </note> he may avoid ſuch act done by himſelf, either by Plea or Writ; and that his Heir may avoid the ſame by Entry, Plea or Writ, is the opinion of all the Books.</p>
+               <p>If one perſon doth repreſent another, and borrows money, and gives Bond, or any other aſſurance in any others name, he may avoid the ſame, by pleading <hi>Noneſt factum,</hi> or ſuch like Plea; and ſo puts the other to prove that he was the perſon that borrowed the ſame; or his Heirs, Executors or Adminiſtrators may have the ſame Plea.</p>
+               <p>If any perſon be impriſoned, or forced to enter into Bond, or pro<g ref="char:EOLhyphen"/>miſe, or any other aſſurance of the like nature, he hath his Plea <hi>per Minas</hi> or <hi>per Dures,</hi> which is a Bar in any ſuch caſe; But if any of theſe abuſes happen in the levying a Fine, none of theſe juſt Pleas can be admitted, for the reaſon before mentioned, it being a Record of a high nature, and will admit of no Averment againſt it ſelf; and pre<g ref="char:EOLhyphen"/>ſumed to be done with ſuch ſolemnity, as aforeſaid: Whereas, per<g ref="char:EOLhyphen"/>ſons that practice ſuch deceits, do for the purpoſe get a <hi>Dedimus Po<g ref="char:EOLhyphen"/>teſtatem,</hi> directed either to ſuch that contrive their deſigns, or igno<g ref="char:EOLhyphen"/>rant
+<pb n="7" facs="tcp:99714:4" rendition="simple:additions"/>perſons, or ſuch as they are ſure will take and paſs the ſame: And this when the Conuſor might well come to the Court to ac<g ref="char:EOLhyphen"/>knowledge the ſame.</p>
+            </div>
+            <div type="part">
+               <head>What acts Feme-Coverts are capable of doing, not being of Record.</head>
+               <p>WIthout doubt our Anceſtors, if they had thought it reaſonable or convenient, that a man having married a Wife, ſhould diſpoſe of her Eſtate as he pleaſed, would not have tied him up ſo ſtrictly as they have by the Statute of 32 <hi>H.</hi> 8. <hi>cap.</hi> 28. where they have provided, That no Husband ſhall make any Leaſe of his Wifes Inheritance, without her joyning in it: And although ſhe do, it muſt be thus qualified, That the Rent be reſerved to the Husband and Wife, and to the Heirs of the Wife: And alſo muſt be reſerved the Rent it hath yielded within twenty years; and ſuch Leaſe not to ex<g ref="char:EOLhyphen"/>ceed 21 years, or three Lives. It doth alſo provide (notwithſtanding all this regular caution) That the Wife be of full age: And every Leaſe made by the Husband and Wife that is not thus qualified, is voidable. Before the Statute, no Feme-covert could make a Leaſe but for her own life.</p>
+               <p>The Statute and Common Law, in all Caſes, doth give great reſpect to perſons that claim by Inheritance; inſomuch, that my Lord <hi>Coke</hi> ſays, That if it were poſſible that two perſons could have an equal title to any one Eſtate, the one claiming by Inheritance, the Law would pre<g ref="char:EOLhyphen"/>fer his title before the other: And nothing is more ſacred to any per<g ref="char:EOLhyphen"/>ſon, then his birth-right; nor any thing a greater ſpur to any perſons honeſt induſtry, then the thought and moral certainty of his Re<g ref="char:EOLhyphen"/>lations reaping the fruits of it.</p>
+            </div>
+            <div type="part">
+               <p>The Star-chamber being put down, there is now left no remedy to any perſon that is injured by the undue procuring of Fines, but by the Juſtice of Parliament, which are uncertain as to their ſitting, and ſo the proceeding therein tedious and chargeable, which makes many an injury to the raine of ſeveral perſons paſs unexamined, eſteeming the remedy as bad as the diſeaſe, if it happen in a ſmall concern.</p>
+               <p>The want of relief, and ſevere puniſhing of offences of this nature, makes the ſame ſeem juſtifiable. There is hardly any Countrey-Solli<g ref="char:EOLhyphen"/>citor or Attorney, but is able to adviſe how a fine may be levied and procured, in any of the Caſes beforementioned, and it being good, being done, they matter not how they get it.</p>
+               <pb n="8" facs="tcp:99714:5" rendition="simple:additions"/>
+               <p>'Tis certain, there hath been more abuſes in Fines, ſince the putting down the Star-chamber, then ever was before; there being no Caſe in the Year-books, and other ancient Law-books, where any perſons incapacited by Law ever levyed any Fines. The ſolemnity beforemen<g ref="char:EOLhyphen"/>tioned being ſo duly obſerved by the Court of Common Pleas, as 'twas almoſt impoſſible to get any ſuch thing done; which ſolemnity is at this day obſerved by the Court; ſo that every perſon that acts any ſuch thing, does it by <hi>Dedimus Poteſtatem</hi> directed to ſuch Commiſſioners as are before mentioned.</p>
+               <p>In <hi>Michaelmas</hi> Term 1667, there was examined in the Common Pleas a dangerous preſident, but remarkable Caſe of an Infants levy<g ref="char:EOLhyphen"/>ing a Fine; which was, that a Gentleman within ten miles of <hi>London,</hi> in <hi>Michaelmas</hi> Term, 1664, procured marriage with an Heir, who lived about the ſame diſtance, againſt her Mothers and Guardians con<g ref="char:EOLhyphen"/>ſent: Her Mother and next Heir apparent, do the ſame Term repair to the Court of Common Pleas, where her Mother doth make Oath, That her Daughter was an Infant of eighteen, married againſt her con<g ref="char:EOLhyphen"/>ſent, and Heir to Lands of 500 <hi>
+                     <abbr>l</abbr> per annum</hi> value. And upon this, prayed the Court to take notice thereof; and that if ſuch perſons ſhould attempt to procure any Fine of the Infants Lands, that they would not permit it. The Court do accordingly take notice thereof; and for further ſecurity, do make a poſitive Rule, prohibiting any Fine to be levyed, during the minority of this Infant; and do order the ſame to be left with the Clerk of the Kingſilver, which was accord<g ref="char:EOLhyphen"/>ingly done: Notwithſtanding all which, and her Husband knowing his Wife to be an Infant, and of the Rule of Court prohibiting the ſame, he doth in <hi>Trinity</hi> Term following procure a <hi>Dedimus Poteſta<g ref="char:EOLhyphen"/>tem</hi> directed unto two Souldiers (procured for that purpoſe) who did the ſame Term in a Councellors Chamber in the Temple, the Court of Common Pleas ſitting at <hi>Weſtminſter,</hi> take the acknowledgement of a Fine from the Infant (ſhe being in health) never examining her as to her age, pretending themſelves ignorant in ſuch affairs, and what they did, was by the advice of the Councellor there preſent, who knew her to be an Infant; and do there make a Deed, leading the uſes of this Fine, ſettling the Eſtate to the Husband and his Heirs. After<g ref="char:EOLhyphen"/>wards they came to one of the Juſtices of the ſaid Court, who not remembring the Rule, doth unawares give an allowance for paſſing the ſame; and do no long after, in the Sickneſs-time, come to the Kingſilver-Office, and do there prevail with a Clerk of that Office to paſs the ſame. The Wife dyes in <hi>Auguſt</hi> 1667, without any Iſſue of
+<pb n="9" facs="tcp:99714:5"/>her body, Her Heir next Term complains to the Court, and ſhews theſe practices; as alſo that the Wife (notwithſtanding her incapa<g ref="char:EOLhyphen"/>city of Infancy) was manifeſtly ſurprized and cheated in the uſes of the ſaid Fine, ſhe being informed it was for one uſe, and it made to another. Notwithſtanding all undue procuring of the ſaid Fine in deceit and contempt of the Court, their own Order againſt it, and the Infancy of the woman confeſt on all hands; yet could not the Court <hi>vacate</hi> the ſaid Fine, and declared that the ſame could not be <hi>vacated,</hi> but by Parliament: But becauſe the Husband knew of the Rule of Court, and did practice the procuring the ſaid Fine in con<g ref="char:EOLhyphen"/>tempt and deceit of the Law and Court, the Court committed him to the <hi>Fleet,</hi> and fined him.</p>
+               <p>Note, that almoſt every Eſtate in <hi>England,</hi> either hath, are, or may be enjoyed by Infants, or perſons not qualified by the Law to diſpoſe of their Eſtates; if ſo, what ſecurity hath, or may have any perſon that ſhall or may claim any Eſtate after them? It may be anſwered, that if any ſuch perſon make any Deed of Gift, Leaſe, Releaſe, or ſuch like act, it not being of Record, ſhall not bind him nor his Heirs. And further, that he cannot diſpoſe of the ſame by any Act of Record. The Court of Common Pleas taking ſuch care to prevent unqualified perſons levying of Fines, as they will not ſuffer any ſuch Records to paſs in their Court, being againſt the Statute and Common Law.</p>
+               <p>But we find by experience, that unqualified perſons have diſpoſed of their Eſtates by tricks deviſed in deceit of the Court; and that the parties, and their Heirs, are remedileſs, becauſe the Court cannot help them: And this become a common practice.</p>
+               <p>The beſt way is, if the Heir or other Relation ſuſpect any ſuch trick to be put on the Court, to give notice thereof to the Court, who will take particular care to prevent it. This alſo may prove as ineffectual, as in the laſt Caſe, and as remedileſs, if once done; for 'tis the act of the Court, and preſumed to be done with ſuch ſolemnity, and the Court fully ſatisfied the party to be no Ideot, Lunatick, Infant, the ſame perſon; and if Feme-covert, to be ſecretly examined, and in<g ref="char:EOLhyphen"/>formed of the nature and quality of the ſettlement, to prevent their Husbands over-reaching them by any fraud or practice; although it be done by a Commiſſion directed (as it was in a late Caſe examined in that Court) to Cleavers of Wood, Souldiers, or any other inferior ignorant perſons whatſoever, and againſt the rule of the whole Court.</p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:99714:6" rendition="simple:additions"/>
+               <head>The Nature of an Inſpection.</head>
+               <p>THe formality of which is, that the parties muſt voluntarily come into Court, that the Court may ſee them, and take proof of their Infancy (the Court taking themſelves to be ſole Judges in this point) which they enter on the Record, and the ſame is avoided by Writ of Error: and this to be done before they come to the age of one and twenty. In ſeveral Caſes I meet this Maxim, <hi>
+                     <g ref="char:V">Ʋ</g>bi eadem ratio, ibi eadem lex;</hi> which if I fail not, doth not follow in this particular. The intent of an Inſpection is onely to ſatisfie the Court as to the parties Infancy, and ſo to make it void: If the Court can be other<g ref="char:EOLhyphen"/>ways ſatisfied as to the Infancy, there is <hi>eadem ratio</hi> that it ſhould be void, but not <hi>eadem Lex,</hi> as in the Caſe laſt mentioned, where the Court was fully ſatisfied, both before the Fine levyed, and afterwards upon the examination of the practice.</p>
+            </div>
+            <div type="part">
+               <head>Deceits which happen by Inſpections.</head>
+               <p>There is very ſeldom any of theſe Inſpections, but there is ſome deceit intended by them, either where an Infant hath levyed a Fine, and ſome one hath upon the reputation thereof lent moneys, and taken the Lands for ſecurity, or purchaſed the ſame to deceive ſuch perſon, either of the Land or Money, they then come to be inſpected, and ſo avoids the ſecurity or purchaſe, and gets both the Land and money; as it was in one <hi>Sherlocks</hi> Caſe, cited in <hi>Styles</hi> Reports, and divers other Caſes of like nature: The Maxime ſuch a Purchaſor hath for his Money, is <hi>Caveat Emptor.</hi>
+               </p>
+               <p>The reaſon why there are ſo few Inſpections, is;</p>
+               <p n="1">1. Becauſe ſuch Infants muſt be inſpected before they come to age, ſo as they often come of age before they underſtand the nature of it: and when they underſtand it, they cannot be permitted, it being to be done in the Minority.</p>
+               <p>If a Feme-covert-Infant levy a Fine with her Husband, ſhe can<g ref="char:EOLhyphen"/>not be admitted to bring a Writ of Error in her own name, but her Husband muſt joyn with her; who will not ſuffer it, unleſs it be for his benefit: As it was in <hi>Trinity</hi> Term, 1669, declared in the Court of Common Pleas, when a Husband had unduly procured his Wife an Infant under twenty, to levy a Fine of her Land. The Heir apparent injured by the ſame, doth the ſame Term complain to the Court. The Husband and Wife are ordered to come in<g ref="char:EOLhyphen"/>to
+<pb n="11" facs="tcp:99714:6"/>Court. The Wife informs the Court, that it was her deſire what ſhe had done, and that ſhe did freely acknowledge the ſame. The Court told her that ſhe was incapable of conſenting and doing what ſhe deſired: And then made an Order, that her Husband and ſhe ſhould joyn in a Writ of Error to vacate the ſaid Fine. Which Order the Husband diſobeying, the Court committed him to the <hi>Fleet,</hi> but could not by any means vacate the ſaid Fine, or otherwiſe compel the Husband to joyn: So that if the Husband dye not before ſhe attain her age, although ſhe ſhould never ſo much deſire the reverſing of the ſame; yet this inconſiderate and unlawful act of hers, ſhall be concluſive to her Heirs and Self.</p>
+               <p n="3">3. Becauſe ſuch Infant doth often dye under age without inſpection, and ſo cannot be brought to be inſpected.</p>
+               <p n="4">4. In ſome Caſes where ſuch Infants are deceived in declaring the uſes of ſuch Fines, ſuch Fines and Deeds leading the uſes thereof be<g ref="char:EOLhyphen"/>ing commonly done after a Clandeſtine manner, without the advice, privity or knowledge of any of the Infants friends, who ſhould ad<g ref="char:EOLhyphen"/>viſe them; and they telling them that it is for one uſe, and they make it o another: of all which abuſes there are Caſes too plentiful.</p>
+               <p>I am incertain whether the <hi>Dedimus Poteſtatem</hi> be granted upon a bare ſuggeſtion of infumity and inability, or upon an <hi>Affidavit.</hi> It is all one whether, if it be falſe: An Oath being onely a more ſolemn manner of lying; and he that will ſuggeſt a lye to a Court, will ſcarce ſtick to ſwear one. The Judge who alloweth the Fine, doth give the Commiſſioner or Sollicitor (who are to be preſent at the acknowledge<g ref="char:EOLhyphen"/>ment) their Oath; who are to ſatisfie the Judge as to the manner of the acknowledging the ſame, and that the ſame was according to Law (which is) that they were not Infants, Ideots, <hi>&amp;c.</hi> If the Judge be ſatisfied with ſuch Oath, he allows the Fine. Not withſtanding which, perſons incapacitated by Law do levy the ſame; ſuch Pra<g ref="char:EOLhyphen"/>cticers procuring a Knight to take the <hi>Caption,</hi> and ſo it paſſes with<g ref="char:EOLhyphen"/>out Oath, or an <hi>Affdavit</hi>-man for that purpoſe. Practicers of unlaw<g ref="char:EOLhyphen"/>ful things, ſeldom ſtumole at a falſe Oath, if that may effectually for<g ref="char:EOLhyphen"/>ward their practices. From the validity or ſuch practices, there is raiſed a corrupt Maxime,</p>
+            </div>
+            <div type="part">
+               <head>Factum valet quod ſieri non debet.</head>
+               <p>There is very little difference in honeſty and juſtice, between a Fine obtained by ſuch fraud and practices as aforeſaid, and a Deed that
+<pb n="12" facs="tcp:99714:7"/>is forged, raſed or forced. The difference which is, is this, That a man hath liberty to defend himſelf againſt the one, but is concluded by the other.</p>
+               <p>How unreaſonable is it that a Fine being good, being levyed upon the preſumed ſolemnity, and care taken before it was levyed; which ſolemnity and care is avoided; ſo that the ſolemnity and care in theſe caſes is the equity and reaſon why ſuch Fines are good; which ſo<g ref="char:EOLhyphen"/>lemnity and care being wanting, the Law is wanting of its equity and reaſon; and where that happens to be, it is <hi>Summum jus,</hi> which is accounted <hi>Summa injuria.</hi>
+               </p>
+               <p>Since it is evident, that it is provided by the Laws of this Realm, that no one perſon ſhall repreſent another to acknowledge, any thing on Record to the prejudice of that other; nor any Madman or Ideot, perſons under age, perſons forced againſt their wills, to make any ſet<g ref="char:EOLhyphen"/>tlement or diſpoſal of their Inheritances, to the prejudice of them<g ref="char:EOLhyphen"/>ſelves or Heirs; and that there hath been tricks and devices found in Law, whereby ſuch practices are done in deceit thereof (and againſt the particular care of the Court, they having notice, and making Orders to prevent ſuch abuſes) to the ruine of Families; and if not prevented, will be to the ruine of many more: And that there hath been formerly a remedy, by which many a wronged perſon by ſuch practices had relief; and that ſuch remedy is taken away, and the abuſe become almoſt remedileſs: It may well conſiſt with the honor and intereſt of a Parliament to provide a remedy, whereby ſuch offences ſhould be ſeverely puniſhed; and the perſons wronged by ſuch practices, relieved againſt them, as they formerly were.</p>
+               <closer>
+                  <signed>That theſe abuſes by Fines may be remedied, is the wiſhes of T. L.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
